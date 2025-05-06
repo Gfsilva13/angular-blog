@@ -1,0 +1,37 @@
+.container__articles {
+  margin-top: 30px;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.articles__others {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.articles__others-recent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.articles__others-articles {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.articles__others-separator > hr{
+  margin-left: 30px;
+  margin-bottom: 20px;
+
+}
+
+header{
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
